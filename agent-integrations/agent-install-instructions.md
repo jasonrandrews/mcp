@@ -4,11 +4,13 @@ Search online for the latest MCP configuration instructions for your agent, then
 
 Pull the Docker image:
 
-```
+```bash
 docker pull armlimited/arm-mcp:latest
 ```
 
-Use the following command and args in your MCP configuration (adjusting the format as required by your agent):
+Use the following command and args in your MCP configuration (adjusting the format as required by your agent).
+
+The SSH-related volume mounts are optional and are only needed when enabling **Arm Performix**.
 
 For JSON-based configurations:
 
@@ -20,8 +22,12 @@ For JSON-based configurations:
     "--rm",
     "-i",
     "--pull=always",
-    "-v", "/path/to/your/workspace:/workspace",
-    "--name", "arm-mcp",
+    "-v",
+    "/path/to/your/workspace:/workspace",
+    "-v",
+    "/path/to/your/ssh/private_key:/run/keys/ssh-key.pem:ro",
+    "-v",
+    "/path/to/your/ssh/known_hosts:/run/keys/known_hosts:ro",
     "armlimited/arm-mcp:latest"
   ]
 }
@@ -30,20 +36,22 @@ For JSON-based configurations:
 For TOML-based configurations:
 
 ```toml
-[mcp_servers."arm-mcp"]
-type = "stdio"
+[mcp_servers.arm-mcp]
 command = "docker"
 args = [
-    "run",
-    "--rm",
-    "-i",
-    "--pull=always",
-    "-v",
-    "/path/to/your/workspace:/workspace",
-    "--name",
-    "arm-mcp",
-    "armlimited/arm-mcp:latest",
+  "run",
+  "--rm",
+  "-i",
+  "--pull=always",
+  "-v",
+  "/path/to/your/workspace:/workspace",
+  "-v",
+  "/path/to/your/ssh/private_key:/run/keys/ssh-key.pem:ro",
+  "-v",
+  "/path/to/your/ssh/known_hosts:/run/keys/known_hosts:ro",
+  "armlimited/arm-mcp:latest",
 ]
 ```
 
-Replace `/path/to/your/workspace` with the absolute path to the project you want to migrate.
+Replace `/path/to/your/workspace` with the absolute path to the project you want the MCP server to access.
+If you are enabling Arm Performix, also replace the SSH private key and `known_hosts` paths with your local files.
