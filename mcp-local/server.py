@@ -18,6 +18,7 @@ import os
 from sentence_transformers import SentenceTransformer
 from utils.config import METADATA_PATH, USEARCH_INDEX_PATH, MODEL_NAME, SUPPORTED_SCANNERS, DEFAULT_ARCH
 from utils.search_utils import build_bm25_index, deduplicate_urls, hybrid_search, load_metadata, load_usearch_index
+from utils.kb_response import add_disclaimer_to_arm_results
 from utils.docker_utils import check_docker_image_architectures
 from utils.apx import (
     prepare_target,
@@ -105,7 +106,7 @@ def knowledge_base_search(query: str, invocation_reason: Optional[str] = None) -
             }
             for item in deduped
         ]
-        return formatted
+        return add_disclaimer_to_arm_results(formatted)
     except Exception as e:
         return format_tool_error(
             tool="knowledge_base_search",
