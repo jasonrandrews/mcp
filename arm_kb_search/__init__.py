@@ -31,8 +31,22 @@ from .search import (
     salient_tokens,
     tokenize_for_search,
 )
+from .resources import (
+    SearchResources,
+    load_embedding_model,
+    load_search_resources,
+    search,
+    sentence_transformer_cache_folder,
+)
+from .response import (
+    ARM_CONTENT_DISCLAIMER,
+    add_disclaimer_to_arm_results,
+    is_arm_domain_url,
+)
 
 __all__ = [
+    "add_disclaimer_to_arm_results",
+    "ARM_CONTENT_DISCLAIMER",
     "build_bm25_index",
     "bm25_search",
     "deduplicate_urls",
@@ -40,13 +54,19 @@ __all__ = [
     "evaluate_retrieval",
     "EvaluationResult",
     "hybrid_search",
+    "is_arm_domain_url",
+    "load_embedding_model",
     "load_eval_rows",
     "load_metadata",
+    "load_search_resources",
     "load_usearch_index",
     "print_evaluation",
     "rerank_candidates",
     "RetrievalError",
     "RetrievalMiss",
     "salient_tokens",
+    "search",
+    "SearchResources",
+    "sentence_transformer_cache_folder",
     "tokenize_for_search",
 ]
