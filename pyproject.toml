@@ -5,7 +5,7 @@ requires-python = ">=3.10"
 dependencies = [
   "numpy",
   "rank-bm25",
-  "sentence-transformers",
+  "sentence-transformers>=5.4",
   "usearch",
 ]
 
