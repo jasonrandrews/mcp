@@ -1706,89 +1706,89 @@ Graviton Getting Started Guide,CC4.0,Graviton - Debug 3,https://github.com/aws/a
 Graviton Getting Started Guide,CC4.0,Graviton - Optimizing,https://github.com/aws/aws-graviton-getting-started/blob/main/perfrunbook/optimization_recommendation.md,performance; optimization; guide; aws; gravition; basics; started; graviton2; graviton3; graviton4
 Graviton Getting Started Guide,CC4.0,Graviton - curated PMUs,https://github.com/aws/aws-graviton-getting-started/blob/main/perfrunbook/appendix.md,pmu; pmus; performance; monitoring; unit; aws; gravition; basics; started; graviton2; graviton3; graviton4
 Graviton Getting Started Guide,CC4.0,Graviton - assembly optimize,https://github.com/aws/aws-graviton-getting-started/blob/main/arm64-assembly-optimization.md,aarch64; assembly; optimization; performance; aws; gravition; basics; started; graviton2; graviton3; graviton4
-Reference Architecture,,Deploying an ELK stack,https://amperecomputing.com/reference-architecture/deploying-an-elk-stack-on-google-tau-t2a,
-Tuning Guide,,DPDK Cryptography Build and Tuning Guide,https://amperecomputing.com/tuning-guides/dpdk-cryptography-build-and-tuning-guide,
-Tuning Guide,,DPDK Setup and Tuning Guide - Refresh,https://amperecomputing.com/tuning-guides/DPDK-setup-and-tuning-guide,
-Tuning Guide,,Hadoop Tuning Guide,https://amperecomputing.com/tuning-guides/hadoop-tuning-guide-on-bare-metal,
-Tuning Guide,,Kafka Tuning Guide,https://amperecomputing.com/tuning-guides/apache-kafka-tuning-guide,
-Tuning Guide,,Locking primitives and memory ordering on Altra,https://amperecomputing.com/tuning-guides/locking-primitives-and-memory-ordering,
-Tuning Guide,,Memcached Tuning Guide,https://amperecomputing.com/tuning-guides/memcached-tuning-guide,
-Tuning Guide,,MongoDB Tuning Guide,https://amperecomputing.com/tuning-guides/mongoDB-tuning-guide,
-Tuning Guide,,MySQL Tuning Guide,https://amperecomputing.com/tuning-guides/mysql-tuning-guide,
-Tuning Guide,,NGINX Tuning Guide,https://amperecomputing.com/tuning-guides/nginx-tuning-guide,
-Tuning Guide,,PostgreSQL Tuning Guide for Ampere Altra Processors on Oracle Cloud Infrastructure,https://amperecomputing.com/tuning-guides/postgreSQL-tuning-guide,
-Tuning Guide,,Redis Tuning Guide,https://amperecomputing.com/tuning-guides/Redis-setup-and-tuning-guide,
-Tuning Guide,,Tuning guide for video codecs,https://amperecomputing.com/tuning-guides/FFmpeg-Tuning-Guide,
-Tuning Guide,,Unlocking Java Performance on Ampere® Altra® Family Processors,https://amperecomputing.com/tuning-guides/unlocking-java-performance-tuning-guide,
-Tutorial,,Accelerating the Cloud Part 1: Going Cloud Native,https://amperecomputing.com/guides/accelerating-the-cloud/going-cloud-native,
-Tutorial,,Accelerating the Cloud Part 2: The Investment to Go Cloud Native,https://amperecomputing.com/guides/accelerating-the-cloud/The-Investment-to-Go-Cloud-Native,
-Tutorial,,Accelerating the Cloud Part 3: Redeployment Pre-Flight Checklist,https://amperecomputing.com/guides/accelerating-the-cloud/Transitioning-to-Cloud-Native-Pre-Flight-Checklist,
-Tutorial,,Accelerating the Cloud Part 4: What to Expect When Going Cloud Native,https://amperecomputing.com/guides/accelerating-the-cloud/What-to-Expect-When-Going-Cloud-Native,
-Tutorial,,Accelerating the Cloud Part 5: The Final Step,https://amperecomputing.com/guides/accelerating-the-cloud/the-final-steps,
-Tutorial,,Ampere AI,https://amperecomputing.com/solutions/ampere-ai,
-Tutorial,,Ampere AI Optimized Frameworks,https://uawartifacts.blob.core.windows.net/upload-files/Ampere_AI_Optimized_Frameworks_92851db62e.pdf?updated_at=2022-10-04T16:55:44.090Z,
-Tutorial,,Ampere Porting Advisor Tutorial,https://amperecomputing.com/tutorials/porting-advisor,
-Tutorial,,Arm Native,https://amperecomputing.com/solutions/arm-native,
-Tutorial,,Big Data Solutions,https://amperecomputing.com/solutions/big-data,
-Tutorial,,Ceph on Ampere Processors,https://uawartifacts.blob.core.windows.net/upload-files/Ampere_Arm_Processors_for_Ceph_WP_v1_00_20230222_1_fcd19200fb.pdf?updated_at=2023-03-13T18:10:32.078Z,
-Tutorial,,Cloud Native Solutions,https://amperecomputing.com/solutions/cloud-native,
-Tutorial,,Cryptography Library on Ampere Tutorial,https://amperecomputing.com/tutorials/cryptography,
-Tutorial,,FP16 vs Fp32 Data Formats,https://uawartifacts.blob.core.windows.net/upload-files/Fp16_vs_Fp32_Data_Formats_b2bac45bf0.pdf?updated_at=2022-10-04T16:55:45.159Z,
-Tutorial,,GCC Guide for Ampere Processors 2025 - updated,https://amperecomputing.com/tutorials/gcc-guide-ampere-processors,
-Tutorial,,Getting Cloud-Native with FreeBSD in OCI with Ampere A1 and Terraform,https://amperecomputing.com/blogs/getting-cloud-native-with-freebsd-on-oci-ampere-a1-with-terraform-,
-Tutorial,,Getting started on Azure Ampere VMs with Debian using Terraform,https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-VMs-with-Debian-using-Terraform,
-Tutorial,,Getting started on Azure Ampere VMs with Opensuse using Terraform,https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-vms-with-opensuse-using-terraform,
-Tutorial,,Improving the Performance of Atomic Instructions for Ampere,https://amperecomputing.com/tutorials/fixing-page-fault-performance-issue,
-Tutorial,,Introducing Almalinux 9 in OCI using Ampere 1 and Terraform,https://amperecomputing.com/blogs/introducing-almalinux-9-on-oci-ampere-a1-with-terraform,
-Tutorial,,Introducing OpenMandriva in OCI using Ampere A1 and Terraform,https://amperecomputing.com/blogs/introducing-openmandriva-on-oci-ampere-a1-with-terraform-,
-Tutorial,,Memory Page Sizes,https://amperecomputing.com/tuning-guides/understanding-memory-page-sizes-on-arm64,
-Tutorial,,On demand build infrastructure in OCI using Ampere A1 and Terraform,https://amperecomputing.com/blogs/on-demand-build-infrastructure-on-oci-ampere-a1-with-terraform,
-Tutorial,,Optimizing the JVM for Ampere part 1,https://amperecomputing.com/tutorials/optimizing-java-applications-for-arm64-in-the-cloud,
-Tutorial,,The First 10 Questions to Answer while running on Ampere Altra-based Instances,https://amperecomputing.com/tutorials/the-first-10-questions-to-answer-while-running-on-ampere-altra-based-instances,
-Tutorial,,Web Services Reference Architecture,chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/uawartifacts.blob.core.windows.net/upload-files/Web_Services_Efficiency_Reference_Architecture_v1_00_20230510_2d10554b8a.pdf?updated_at=2023-05-10T15:10:19.861Z,
-Workload Brief,,AI Inference on Azure Dpsv5 instances,https://amperecomputing.com/briefs/ai-inference-on-azure-brief,
-Workload Brief,,AmpereOne vBench on Bare Metal,https://amperecomputing.com/briefs/x264-on-ampereone-brief,
-Workload Brief,,AmpereOne: DLRM (torchbench) on Bare Metal,https://amperecomputing.com/briefs/recommender-engine-ai-inference-on-ampereone,
-Workload Brief,,AmpereOne: Llama-3 on Bare Metal,https://amperecomputing.com/briefs/llama-3-ai-inference-on-ampereone,
-Workload Brief,,AmpereOne: Memcached on Bare Metal,https://amperecomputing.com/briefs/memcached-on-ampereone,
-Workload Brief,,AmpereOne: MySQL on Bare Metal,https://amperecomputing.com/briefs/mysql-on-ampereone,
-Workload Brief,,AmpereOne: NGINX on Bare Metal,https://amperecomputing.com/briefs/nginx-on-AC04-brief,
-Workload Brief,,AmpereOne: PostgreSQL on Bare Metal,https://amperecomputing.com/briefs/postgresql-on-ampereone,
-Workload Brief,,AmpereOne: Redis on Bare Metal,https://amperecomputing.com/briefs/redis-on-AC04-brief,
-Workload Brief,,Canonical Anbox Cloud Brief,https://amperecomputing.com/briefs/anbox_solution_brief,
-Workload Brief,,Cassandra on Azure,https://amperecomputing.com/briefs/cassandra-on-azure-brief,
-Workload Brief,,Cassandra on Bare Metal,https://amperecomputing.com/briefs/cassandra-workload-brief,
-Workload Brief,,Cassandra on Google Cloud,https://amperecomputing.com/briefs/cassandra-on-google-cloud-brief,
-Workload Brief,,DSB Social Network Brief on Bare Metal,https://amperecomputing.com/briefs/dsb-sn-brief,
-Workload Brief,,DSB Social Network on OCI Brief,https://amperecomputing.com/briefs/dsb-social-network-scale-out-brief,
-Workload Brief,,ElasticSearch on Azure Workload Brief,https://amperecomputing.com/briefs/elasticsearch-on-azure-brief,
-Workload Brief,,ElasticSearch on OCI Workload Brief,https://amperecomputing.com/briefs/elasticsearch-oci-brief,
-Workload Brief,,Hadoop Brief,https://amperecomputing.com/briefs/hadoop-workload-brief,
-Workload Brief,,Hadoop on OCI Workload Brief,https://amperecomputing.com/briefs/hadoop-on-oci-brief,
-Workload Brief,,Kafka Workload Brief,https://amperecomputing.com/briefs/apache-kafka-solution-brief,
-Workload Brief,,Kafka on Azure Brief,https://amperecomputing.com/briefs/kafka-on-azure-brief,
-Workload Brief,,Memcached on Azure,https://amperecomputing.com/briefs/memcached-on-azure-brief,
-Workload Brief,,Memcached on Bare Metal,https://amperecomputing.com/briefs/memcached-workload-brief,
-Workload Brief,,MongoDB Workload Brief on Bare Metal,https://amperecomputing.com/briefs/mongodb-brief,
-Workload Brief,,MySQL on Bare Metal Workload Brief,https://amperecomputing.com/briefs/mysqlserver_workload_brief,
-Workload Brief,,NGINX on Azure Workload Brief - Updated replacement,https://amperecomputing.com/briefs/nginx-on-azure-brief,
-Workload Brief,,NGINX on Bare Metal Workload Brief,https://amperecomputing.com/briefs/nginx-workload-brief,
-Workload Brief,,NGINX on Google Cloud Workload Brief,https://amperecomputing.com/briefs/nginx-on-google-cloud-brief,
-Workload Brief,,Object Storage MinIO Single Node,https://www.amperecomputing.com/briefs/minio-on-single-node-brief,
-Workload Brief,,Redis on Azure Workload Brief - updated replacement,https://amperecomputing.com/briefs/redis-on-azure-brief,
-Workload Brief,,Redis on Bare Metal Workload Brief,https://amperecomputing.com/briefs/redis-workload-brief,
-Workload Brief,,Redis on Google Cloud Workload Brief,https://amperecomputing.com/briefs/redis-on-google-brief,
-Workload Brief,,Spark on OCI Workload Brief,https://amperecomputing.com/briefs/spark-on-OCI-brief,
-Workload Brief,,Spark on Google Cloud Brief,https://amperecomputing.com/briefs/spark-on-google-brief,
-Workload Brief,,Spark on Azure Brief,https://amperecomputing.com/briefs/spark-on-azure-brief,
-Workload Brief,,Spark Workload Brief,https://amperecomputing.com/briefs/spark-workload-brief,
-Workload Brief,,VP9 Video Codec on Google Cloud Workload Brief,https://amperecomputing.com/briefs/vp9-on-google-brief,
-Workload Brief,,x264 on Azure Workload Brief,https://amperecomputing.com/briefs/x264-on-azure-brief,
-Workload Brief,,x264 on Bare Metal Workload Brief,https://amperecomputing.com/briefs/x264_workload_brief,
-Workload Brief,,x264 on Google Cloud Workload Brief,https://amperecomputing.com/briefs/x264-on-google-cloud-brief,
-Workload Brief,,x265 on Azure Workload Brief,https://amperecomputing.com/briefs/x265-on-azure-brief,
-Workload Brief,,x265 on Bare Metal Workload Brief,https://amperecomputing.com/briefs/x265-workload-brief,
-Workload Brief,,x265 on Google Cloud Workload Brief,https://amperecomputing.com/briefs/x265-on-google-cloud-brief,
+Reference Architecture,,Deploying an ELK stack,https://amperecomputing.com/reference-architecture/deploying-an-elk-stack-on-google-tau-t2a,Ampere; Ampere Altra; Tau T2A; GKE; Elastic Cloud on Kubernetes
+Tuning Guide,,DPDK Cryptography Build and Tuning Guide,https://amperecomputing.com/tuning-guides/dpdk-cryptography-build-and-tuning-guide,Ampere; Ampere Altra; AmpereOne; ipsec-mb; crypto_armv8; dpdk-test-crypto-perf
+Tuning Guide,,DPDK Setup and Tuning Guide - Refresh,https://amperecomputing.com/tuning-guides/DPDK-setup-and-tuning-guide,Ampere; Ampere Altra; AmpereOne; pktgen-dpdk; testpmd; ConnectX; MLNX_OFED; 100GbE
+Tuning Guide,,Hadoop Tuning Guide,https://amperecomputing.com/tuning-guides/hadoop-tuning-guide-on-bare-metal,Ampere; Ampere Altra; Ampere Altra Max; MapReduce; YARN; HDFS
+Tuning Guide,,Kafka Tuning Guide,https://amperecomputing.com/tuning-guides/apache-kafka-tuning-guide,Ampere; Ampere Altra; Kafka perf test; ZooKeeper
+Tuning Guide,,Locking primitives and memory ordering on Altra,https://amperecomputing.com/tuning-guides/locking-primitives-and-memory-ordering,Ampere; Ampere Altra; Ampere Altra Max; Arm LSE; GCC atomics; Neoverse N1
+Tuning Guide,,Memcached Tuning Guide,https://amperecomputing.com/tuning-guides/memcached-tuning-guide,Ampere; Ampere Altra; NIC offload; IRQ affinity; Neoverse N1
+Tuning Guide,,MongoDB Tuning Guide,https://amperecomputing.com/tuning-guides/mongoDB-tuning-guide,Ampere; Ampere Altra; WiredTiger; snappy compression; transparent huge pages; 64k pagesize
+Tuning Guide,,MySQL Tuning Guide,https://amperecomputing.com/tuning-guides/mysql-tuning-guide,Ampere; Ampere Altra; Ampere Altra Max; sysbench; PGO; MTR training
+Tuning Guide,,NGINX Tuning Guide,https://amperecomputing.com/tuning-guides/nginx-tuning-guide,Ampere; Ampere Altra; worker_processes; worker_connections; sendfile; wrk
+Tuning Guide,,PostgreSQL Tuning Guide for Ampere Altra Processors on Oracle Cloud Infrastructure,https://amperecomputing.com/tuning-guides/postgreSQL-tuning-guide,Ampere; Ampere Altra; Ampere Altra Max; OCI A1; pgbench; Neoverse N1; GCC LSE optimizations
+Tuning Guide,,Redis Tuning Guide,https://amperecomputing.com/tuning-guides/Redis-setup-and-tuning-guide,Ampere; Ampere Altra; Ampere Altra Max; memtier benchmark; IRQ affinity; overcommit_memory
+Tuning Guide,,Tuning guide for video codecs,https://amperecomputing.com/tuning-guides/FFmpeg-Tuning-Guide,Ampere; Ampere Altra; Ampere Altra Max; x264; x265; libvpx; libaom; GCC mcpu native
+Tuning Guide,,Unlocking Java Performance on Ampere® Altra® Family Processors,https://amperecomputing.com/tuning-guides/unlocking-java-performance-tuning-guide,Ampere; Ampere Altra; Ampere Altra Max; JDK17; SPECjbb2015; Neoverse N1
+Tutorial,,Accelerating the Cloud Part 1: Going Cloud Native,https://amperecomputing.com/guides/accelerating-the-cloud/going-cloud-native,Ampere; Ampere Altra; Ampere Altra Max; Arm ISA; x86 hyperthreading; CSP workloads
+Tutorial,,Accelerating the Cloud Part 2: The Investment to Go Cloud Native,https://amperecomputing.com/guides/accelerating-the-cloud/The-Investment-to-Go-Cloud-Native,Ampere; Tau T2A; Momento serverless cache; Pelikan; Plesk
+Tutorial,,Accelerating the Cloud Part 3: Redeployment Pre-Flight Checklist,https://amperecomputing.com/guides/accelerating-the-cloud/Transitioning-to-Cloud-Native-Pre-Flight-Checklist,Ampere; Ampere Altra; Google Cloud T2A; Momento Pelikan cache; Arm ISA
+Tutorial,,Accelerating the Cloud Part 4: What to Expect When Going Cloud Native,https://amperecomputing.com/guides/accelerating-the-cloud/What-to-Expect-When-Going-Cloud-Native,Ampere; Ampere Altra; Ampere Altra Max; CSP; P99 latency; H.264 encoding
+Tutorial,,Accelerating the Cloud Part 5: The Final Step,https://amperecomputing.com/guides/accelerating-the-cloud/the-final-steps,Ampere; Ampere Altra; AmpereOne; Kubernetes Arm64 deployment; Arm64 dependency analysis
+Tutorial,,Ampere AI,https://amperecomputing.com/solutions/ampere-ai,Ampere; Ampere AI; AmpereOne; AmpereOne M; Ampere Altra; Ampere AIO; Ampere Model Library
+Tutorial,,Ampere AI Optimized Frameworks,https://uawartifacts.blob.core.windows.net/upload-files/Ampere_AI_Optimized_Frameworks_92851db62e.pdf?updated_at=2022-10-04T16:55:44.090Z,Ampere; Ampere Altra; Ampere Altra Max; Ampere Model Library; ONNX Runtime
+Tutorial,,Ampere Porting Advisor Tutorial,https://amperecomputing.com/tutorials/porting-advisor,Ampere; Ampere Porting Advisor; APA; Arm64; AArch64; dependency scanning
+Tutorial,,Arm Native,https://amperecomputing.com/solutions/arm-native,Ampere; Arm native applications; Ampere Altra; Ampere Altra Max; Anbox Cloud; Genymotion
+Tutorial,,Big Data Solutions,https://amperecomputing.com/solutions/big-data,Ampere; Ampere Altra; HDFS; YARN; MapReduce
+Tutorial,,Ceph on Ampere Processors,https://uawartifacts.blob.core.windows.net/upload-files/Ampere_Arm_Processors_for_Ceph_WP_v1_00_20230222_1_fcd19200fb.pdf?updated_at=2023-03-13T18:10:32.078Z,Ampere; Ampere Altra; RADOS Block Device; fio; Cosbench; NVMe OSD
+Tutorial,,Cloud Native Solutions,https://amperecomputing.com/solutions/cloud-native,Ampere; Ampere Altra; Ampere Altra Max; Anbox Cloud; Genymotion
+Tutorial,,Cryptography Library on Ampere Tutorial,https://amperecomputing.com/tutorials/cryptography,Ampere; AmpereOne; Ampere Altra; AWS-LC; AArch64cryptolib; AES-GCM; ECDSA
+Tutorial,,FP16 vs FP32 Data Formats,https://uawartifacts.blob.core.windows.net/upload-files/Fp16_vs_Fp32_Data_Formats_b2bac45bf0.pdf?updated_at=2022-10-04T16:55:45.159Z,Ampere; Ampere Altra; Ampere Altra Max; FP16; FP32; ResNet-50; Inception v2
+Tutorial,,GCC Guide for Ampere Processors 2025 - updated,https://amperecomputing.com/tutorials/gcc-guide-ampere-processors,Ampere; AmpereOne; Ampere Altra; GCC mcpu; PGO; LTO; Arm compiler flags
+Tutorial,,Getting Cloud-Native with FreeBSD in OCI with Ampere A1 and Terraform,https://amperecomputing.com/blogs/getting-cloud-native-with-freebsd-on-oci-ampere-a1-with-terraform-,Ampere; Ampere A1; FreeBSD; OCI; Terraform; cloud-init; OCI Marketplace
+Tutorial,,Getting started on Azure Ampere VMs with Debian using Terraform,https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-VMs-with-Debian-using-Terraform,Ampere; Ampere Altra; Azure Ampere; Debian; Terraform; cloud-init; Azure CLI
+Tutorial,,Getting started on Azure Ampere VMs with openSUSE using Terraform,https://amperecomputing.com/tutorials/getting-started-on-azure-ampere-vms-with-opensuse-using-terraform,Ampere; Ampere Altra; Azure Ampere VMs; openSUSE; Terraform; cloud-init; Azure Dpsv5; Azure Epsv5
+Tutorial,,Improving the Performance of Atomic Instructions for Ampere,https://amperecomputing.com/tutorials/fixing-page-fault-performance-issue,Ampere; Arm64 atomics; LSE instructions; ldadd; huge zero page; madvise populate write; JVM pretouch memory
+Tutorial,,Introducing AlmaLinux 9 in OCI using Ampere A1 and Terraform,https://amperecomputing.com/blogs/introducing-almalinux-9-on-oci-ampere-a1-with-terraform,Ampere; Ampere A1; Ampere Altra; AlmaLinux 9; OCI; Terraform; cloud-init; OCI Marketplace
+Tutorial,,Introducing OpenMandriva in OCI using Ampere A1 and Terraform,https://amperecomputing.com/blogs/introducing-openmandriva-on-oci-ampere-a1-with-terraform-,Ampere; Ampere A1; Ampere Altra; OpenMandriva; OCI; Terraform; cloud-init; AArch64
+Tutorial,,Memory Page Sizes,https://amperecomputing.com/tuning-guides/understanding-memory-page-sizes-on-arm64,Ampere; Arm64 memory pages; 64k pages; 16k pages; TLB; MMU; huge pages
+Tutorial,,On demand build infrastructure in OCI using Ampere A1 and Terraform,https://amperecomputing.com/blogs/on-demand-build-infrastructure-on-oci-ampere-a1-with-terraform,Ampere; Ampere A1; Ampere Altra; OCI; Terraform; OpenStack Kolla
+Tutorial,,Optimizing the JVM for Ampere part 1,https://amperecomputing.com/tutorials/optimizing-java-applications-for-arm64-in-the-cloud,Ampere; Arm64; JVM; G1GC; ActiveProcessorCount; transparent huge pages
+Tutorial,,The First 10 Questions to Answer while running on Ampere Altra-based Instances,https://amperecomputing.com/tutorials/the-first-10-questions-to-answer-while-running-on-ampere-altra-based-instances,Ampere; Ampere Altra; NUMA; lscpu; iperf3; ethtool
+Tutorial,,Web Services Reference Architecture,https://uawartifacts.blob.core.windows.net/upload-files/Web_Services_Efficiency_Reference_Architecture_v1_00_20230510_2d10554b8a.pdf,Ampere; Ampere Altra Max; DeathStarBench; social network; wrk2
+Workload Brief,,AI Inference on Azure Dpsv5 instances,https://amperecomputing.com/briefs/ai-inference-on-azure-brief,Ampere; Ampere Altra; Azure Dpsv5; MLPerf Inference; ResNet-50; FP16
+Workload Brief,,AmpereOne vBench on Bare Metal,https://amperecomputing.com/briefs/x264-on-ampereone-brief,Ampere; AmpereOne; x264; vBench; frames per joule; AMD EPYC
+Workload Brief,,AmpereOne: DLRM (torchbench) on Bare Metal,https://amperecomputing.com/briefs/recommender-engine-ai-inference-on-ampereone,Ampere; AmpereOne; DLRM; torchbench; AMD EPYC; PyTorch
+Workload Brief,,AmpereOne: Llama-3 on Bare Metal,https://amperecomputing.com/briefs/llama-3-ai-inference-on-ampereone,Ampere; AmpereOne; Llama 3; AMD EPYC
+Workload Brief,,AmpereOne: Memcached on Bare Metal,https://amperecomputing.com/briefs/memcached-on-ampereone,Ampere; AmpereOne; Memcached; A192-32X; latency SLA
+Workload Brief,,AmpereOne: MySQL on Bare Metal,https://amperecomputing.com/briefs/mysql-on-ampereone,Ampere; AmpereOne; MySQL; sysbench; OLTP; AMD EPYC
+Workload Brief,,AmpereOne: NGINX on Bare Metal,https://amperecomputing.com/briefs/nginx-on-AC04-brief,Ampere; AmpereOne; NGINX; AMD EPYC; wrk benchmark; HTTPS load testing
+Workload Brief,,AmpereOne: PostgreSQL on Bare Metal,https://amperecomputing.com/briefs/postgresql-on-ampereone,Ampere; AmpereOne; PostgreSQL; HammerDB; TPC-C; NOPM; AMD EPYC
+Workload Brief,,AmpereOne: Redis on Bare Metal,https://amperecomputing.com/briefs/redis-on-AC04-brief,Ampere; AmpereOne; Redis; memtier benchmark; AMD EPYC; P99 latency
+Workload Brief,,Canonical Anbox Cloud Brief,https://amperecomputing.com/briefs/anbox_solution_brief,Ampere; Ampere Altra; Ampere Altra Max; Canonical Anbox Cloud; Anbox benchmark
+Workload Brief,,Cassandra on Azure,https://amperecomputing.com/briefs/cassandra-on-azure-brief,Ampere; Ampere Altra; Azure Dpsv5; Cassandra stress; P99 latency
+Workload Brief,,Cassandra on Bare Metal,https://amperecomputing.com/briefs/cassandra-workload-brief,Ampere; Ampere Altra; Ampere Altra Max; Cassandra; P99 latency
+Workload Brief,,Cassandra on Google Cloud,https://amperecomputing.com/briefs/cassandra-on-google-cloud-brief,Ampere; Ampere Altra; Tau T2A; Cassandra; P99 latency
+Workload Brief,,DSB Social Network Brief on Bare Metal,https://amperecomputing.com/briefs/dsb-sn-brief,Ampere; Ampere Altra Max; DeathStarBench; DSB Social Network; P99 latency
+Workload Brief,,DSB Social Network on OCI Brief,https://amperecomputing.com/briefs/dsb-social-network-scale-out-brief,Ampere; Ampere Altra Max; DeathStarBench; DSB Social Network; P99 latency
+Workload Brief,,ElasticSearch on Azure Workload Brief,https://amperecomputing.com/briefs/elasticsearch-on-azure-brief,Ampere; Ampere Altra; Elasticsearch; Azure Dpsv5; esrally; P99 latency
+Workload Brief,,ElasticSearch on OCI Workload Brief,https://amperecomputing.com/briefs/elasticsearch-oci-brief,Ampere; Ampere Altra; Elasticsearch; OCI; esrally
+Workload Brief,,Hadoop Brief,https://amperecomputing.com/briefs/hadoop-workload-brief,Ampere; Ampere Altra Max; TeraSort; WordCount; HiBench; Intel Ice Lake
+Workload Brief,,Hadoop on OCI Workload Brief,https://amperecomputing.com/briefs/hadoop-on-oci-brief,Ampere; Ampere A1; Ampere Altra; OCI; TeraSort benchmark
+Workload Brief,,Kafka Workload Brief,https://amperecomputing.com/briefs/apache-kafka-solution-brief,Ampere; Ampere Altra Max; Apache Kafka; rack efficiency
+Workload Brief,,Kafka on Azure Brief,https://amperecomputing.com/briefs/kafka-on-azure-brief,Ampere; Ampere Altra; Azure Epsv5; Apache Kafka; P99 latency; Premium SSD
+Workload Brief,,Memcached on Azure,https://amperecomputing.com/briefs/memcached-on-azure-brief,Ampere; Ampere Altra; Azure Dpsv5; Memcached; P99 latency
+Workload Brief,,Memcached on Bare Metal,https://amperecomputing.com/briefs/memcached-workload-brief,Ampere; Ampere Altra Max; Memcached; latency SLA
+Workload Brief,,MongoDB Workload Brief on Bare Metal,https://amperecomputing.com/briefs/mongodb-brief,Ampere; Ampere Altra Max; MongoDB; YCSB; AMD EPYC 7763; Intel Xeon 8380
+Workload Brief,,MySQL on Bare Metal Workload Brief,https://amperecomputing.com/briefs/mysqlserver_workload_brief,Ampere; Ampere Altra Max; MySQL; sysbench; OLTP; Intel Xeon; AMD EPYC
+Workload Brief,,NGINX on Azure Workload Brief - Updated replacement,https://amperecomputing.com/briefs/nginx-on-azure-brief,Ampere; Ampere Altra; Azure Dpsv5; NGINX; Lua; Brotli
+Workload Brief,,NGINX on Bare Metal Workload Brief,https://amperecomputing.com/briefs/nginx-workload-brief,Ampere; Ampere Altra Max; NGINX; P99 latency
+Workload Brief,,NGINX on Google Cloud Workload Brief,https://amperecomputing.com/briefs/nginx-on-google-cloud-brief,Ampere; Ampere Altra; Tau T2A; NGINX; wrk
+Workload Brief,,Object Storage MinIO Single Node,https://www.amperecomputing.com/briefs/minio-on-single-node-brief,Ampere; Ampere Altra Max; MinIO; SDS; 100Gbps; NVMe
+Workload Brief,,Redis on Azure Workload Brief - updated replacement,https://amperecomputing.com/briefs/redis-on-azure-brief,Ampere; Ampere Altra; Azure Dpsv5; Redis; P99 latency
+Workload Brief,,Redis on Bare Metal Workload Brief,https://amperecomputing.com/briefs/redis-workload-brief,Ampere; Ampere Altra Max; Redis
+Workload Brief,,Redis on Google Cloud Workload Brief,https://amperecomputing.com/briefs/redis-on-google-brief,Ampere; Ampere Altra; Tau T2A; Redis
+Workload Brief,,Spark on OCI Workload Brief,https://amperecomputing.com/briefs/spark-on-OCI-brief,Ampere; Ampere A1; Ampere Altra; OCI; TeraSort; TPC-DS; YARN
+Workload Brief,,Spark on Google Cloud Brief,https://amperecomputing.com/briefs/spark-on-google-brief,Ampere; Ampere Altra; Tau T2A; Apache Spark; TeraSort benchmark; YARN
+Workload Brief,,Spark on Azure Brief,https://amperecomputing.com/briefs/spark-on-azure-brief,Ampere; Ampere Altra; Azure VMs; Apache Spark; TeraSort benchmark; HiBench
+Workload Brief,,Spark Workload Brief,https://amperecomputing.com/briefs/spark-workload-brief,Ampere; Ampere Altra; Apache Spark; TeraSort; TPC-DS; Intel Ice Lake
+Workload Brief,,VP9 Video Codec on Google Cloud Workload Brief,https://amperecomputing.com/briefs/vp9-on-google-brief,Ampere; Ampere Altra; Tau T2A; VP9; vpxenc
+Workload Brief,,x264 on Azure Workload Brief,https://amperecomputing.com/briefs/x264-on-azure-brief,Ampere; Ampere Altra; Azure Dpsv5; x264; libx264; vBench; H.264
+Workload Brief,,x264 on Bare Metal Workload Brief,https://amperecomputing.com/briefs/x264_workload_brief,Ampere; Ampere Altra Max; x264; FFmpeg; libx264
+Workload Brief,,x264 on Google Cloud Workload Brief,https://amperecomputing.com/briefs/x264-on-google-cloud-brief,Ampere; Ampere Altra; Tau T2A; x264; vBench; H.264; FFmpeg
+Workload Brief,,x265 on Azure Workload Brief,https://amperecomputing.com/briefs/x265-on-azure-brief,Ampere; Ampere Altra; Azure Dpsv5; x265; H.265; HEVC
+Workload Brief,,x265 on Bare Metal Workload Brief,https://amperecomputing.com/briefs/x265-workload-brief,Ampere; Ampere Altra Max; x265; H.265; socket scaling
+Workload Brief,,x265 on Google Cloud Workload Brief,https://amperecomputing.com/briefs/x265-on-google-cloud-brief,Ampere; Ampere Altra; Tau T2A; x265; H.265; MPEG-H
 Learning Paths,CC4.0,Learning Path - Monitor Azure Cobalt 100 Arm64 virtual machines using Dynatrace OneAgent,https://learn.arm.com/learning-paths/servers-and-cloud-computing/dynatrace-azure/,Containers and Virtualization; Microsoft Azure; Linux; Dynatrace; NGINX; ActiveGate
 Learning Paths,CC4.0,Learning Path - Build Robot Simulation and Reinforcement Learning Workflows with Isaac Sim and Isaac Lab on DGX Spark,https://learn.arm.com/learning-paths/laptops-and-desktops/dgx_spark_isaac_robotics/,ML; Linux; Python; Bash; IsaacSim; IsaacLab
 Learning Paths,CC4.0,Learning Path - Build a customer support chatbot on Android with Llama and ExecuTorch,https://learn.arm.com/learning-paths/mobile-graphics-and-gaming/customer-support-chatbot-with-llama-and-executorch-on-arm-based-mobile-devices/,ML; macOS; Linux; Android; Java; Python; ExecuTorch
