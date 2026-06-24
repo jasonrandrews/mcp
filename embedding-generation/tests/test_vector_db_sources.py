@@ -34,9 +34,9 @@ def test_vector_db_sources_have_keywords():
         )
 
         rows_without_keywords = [
-            f"line {line_number}: {row['Display Name']} ({row['URL']})"
+            f"line {line_number}: {row.get('Display Name', '').strip()} ({(row.get('URL') or '').strip()})"
             for line_number, row in enumerate(reader, start=2)
-            if row["URL"].strip() and not row["Keywords"].strip()
+            if (row.get("URL") or "").strip() and not (row.get("Keywords") or "").strip()
         ]
 
     assert not rows_without_keywords, (
