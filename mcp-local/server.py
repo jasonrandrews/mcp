@@ -28,7 +28,7 @@ from utils.apx import (
 from utils.migrate_ease_utils import run_migrate_ease_scan
 from utils.skopeo_tool import skopeo_help, skopeo_inspect
 from utils.llvm_mca_tool import mca_help, llvm_mca_analyze
-from utils.invocation_logger import log_invocation_reason
+from utils.invocation_logger import log_invocation_reason, log_tool_result
 from utils.error_handling import format_tool_error
 
 # Initialize the MCP server
@@ -52,7 +52,7 @@ SEARCH_RESOURCES = arm_kb_search.load_search_resources(
 )
 def knowledge_base_search(query: str, invocation_reason: Optional[str] = None) -> List[Dict[str, Any]]:
     # Log invocation reason if provided
-    log_invocation_reason(
+    entry_id = log_invocation_reason(
         tool="knowledge_base_search",
         reason=invocation_reason,
         args={"query": query},
@@ -67,7 +67,9 @@ def knowledge_base_search(query: str, invocation_reason: Optional[str] = None) -
         List of dictionaries with metadata including url and text snippets.
     """
     try:
-        return arm_kb_search.search(query, SEARCH_RESOURCES)
+        results = arm_kb_search.search(query, SEARCH_RESOURCES)
+        log_tool_result(entry_id, "knowledge_base_search", results)
+        return results
     except Exception as e:
         return format_tool_error(
             tool="knowledge_base_search",
